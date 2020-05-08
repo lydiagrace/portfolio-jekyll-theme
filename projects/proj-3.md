@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Project Three'
+title: 'Kodak Shirley'
 ---
 
 However, unless it was in order to surveil black folks, photo technology in the mid-20th century was hardwired to NOT work for dark skin color, because the light range was that narrow.  The default setting with the narrow light range was designed for a person with the skin color of Polaroid’s first model “Shirley,” who was a white woman in the 50s.  Her skin tone, Lorna Roth says, has “been the recognized skin ideal standard for most North American analogue photo labs since the early part of the twentieth century and they continue to function as the dominant norm” (Looking at Shirley).  Roth discusses the origin of the choice of Shirley, who was the industry standard in North American photo labs that were owned by largely men.  She brings up an interesting point about Shirley being a woman - a choice made by the male owners, no doubt.  The task Shirley was used for could have easily been done by a male model, and it might have even have addressed the contrast issue earlier: “Alone or in groups, men wearing coloured shirts with similar skin-tone ranges and hair colours to those of female Shirleys could have worked as effectively as a reference standard—especially if they had had beards or moustaches. These actually might have provided technicians with the practice to deal more effectively with the contrast issue.”  
